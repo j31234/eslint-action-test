@@ -1,1 +1,2 @@
-const a = function(){}
+const a = function () {};
+console.log(a);
