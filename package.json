@@ -5,7 +5,11 @@
   "repository": "git@github.com:j31234/eslint-action-test.git",
   "author": "j31234 <jx-he19@mails.tsinghua.edu.cn>",
   "license": "MIT",
-  "dependencies": {
-    "eslint": "^7.30.0"
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.30.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-vue": "^7.13.0"
   }
 }
